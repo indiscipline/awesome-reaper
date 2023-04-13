@@ -7,13 +7,13 @@ Reaper supports a vast range of hardware, digital formats and plugins, and can b
 
 # Contributing
 
-This lists promotes freely-available resources and content and can't be used as an advertisement platform for a commercial product. We welcome:
+This project promotes freely-available resources and content and can't be used as an advertisement platform for a commercial product. We welcome everything which meets our [quality standards](CONTRIBUTING.md#quality-standards), such as:
 
 - Free Software / Open Source programs, libraries, extensions and scripts.
 - Non-paywalled media, videos, podcasts, articles.
 - Freely distributed books, courses, etc.
 
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details.
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards](CONTRIBUTING.md#quality-standards), [Contribution](CONTRIBUTING.md#contribution-guidelines) and  [Commit and Pull Request](CONTRIBUTING.md#commit-and-pull-request-guidelines) guidelines as well as a [primer on Git-based collaboration](CONTRIBUTING.md#git-basics).
 
 # Contents
 

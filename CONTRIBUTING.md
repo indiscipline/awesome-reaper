@@ -28,14 +28,14 @@ Please ensure your contribution adheres to the following guidelines:
 * Check your spelling and grammar.
 * Please, restrain from using qualitative descriptions such as: "best", "nice", "greatest", etc.
 
-## Commit and Pull request guidelines:
+## Commit and Pull Request guidelines:
 
 * Individual pull request for each change. Multiple changes within a single subcategory is OK.
 * Please, squash your commits prior to opening the pull request.
 * Keep descriptions short and simple.
 * Include motivation for your additions in the pull request description.
 
-## Git Basics
+## Git basics
 
 If you're new to Git-based collaboration, GitHub features a comprehensive documentation section.
 
