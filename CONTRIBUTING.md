@@ -1,30 +1,54 @@
-# Contribution Guidelines
+# Contribution
 
-Please ensure your pull request adheres to the following guidelines:
+Thank you for contributing to **Awesome Reaper**!
 
-* Please, search previous suggestions before making a new one, as yours may be a duplicate.
-* Please, make an individual pull request for each suggestion.
-* Use the following format: \[NAME\]\(LINK\) - DESCRIPTION.
-* Keep descriptions short and simple.
-* End all descriptions with a full stop/period.
+Please, read the following guidelines and try to follow them to the fullest extent possible.
+
+## Quality standards
+
+The additions to the list should meet the following criteria for inclusion:
+
+* Reaper-centric: Just "created in Reaper" is not enough of a reason.
+* Generally useful to the community.
+* The resource should be freely-available. Paywalled media, courses, articles or strictly commercial products are not allowed.
+* For software, scripts, effects or extensions, Free Software or Open Source are prioritized over freeware or source-available.
+* For books, articles and resources, Copyleft and Creative Commons licensed or Public Domain materials are prioritized over copyrighted ones.
+* When applicable, a project should be actively maintained and documented.
+
+## Contribution guidelines
+
+Please ensure your contribution adheres to the following guidelines:
+
+* Please, search issues and pull requests before making a new one, as yours may be a duplicate.
+* Follow the established structure of the list or suggest a change in an issue. New categories or categorisation improvements are welcome.
+* Points should follow the format: \[NAME\]\(LINK\) - DESCRIPTION. You can add complimentary link to the description.
+* Follow alphabetical order within each category.
 * Make sure your text editor is set to remove trailing whitespace.
-* Order projects alphabetically within each category.
+* End all descriptions with a full stop/period.
 * Check your spelling and grammar.
-* New categories, or improvements to the existing categorisation are welcome.
 * Please, restrain from using qualitative descriptions such as: "best", "nice", "greatest", etc.
 
-## Pull requests workflow
+## Commit and Pull request guidelines:
 
-Please, submit one pull requests with one link per PR. If you want to add several links, you should create PR for each links, unless all of the proposed projects belong to the same category.
-Pull request should have meaningful description what this project do, why do you want to add it to the list and any other info which might be useful. This will help maintainers with the review process.
+* Individual pull request for each change. Multiple changes within a single subcategory is OK.
+* Please, squash your commits prior to opening the pull request.
+* Keep descriptions short and simple.
+* Include motivation for your additions in the pull request description.
 
-## Quality standard
+## Git Basics
 
-To stay on the list, projects should follow these quality standards:
+If you're new to Git-based collaboration, GitHub features a comprehensive documentation section.
 
-* Generally useful to the community
-* Actively maintained (even if that just means acknowledging open issues when they arise)
-* Stable
-* Documented
+For your pull-requests, follow the [quickstart guide](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
 
-Thank you for your suggestions!
+### TLDR:
+
+- Fork the repository.
+- Create a new branch.
+- Add a single meaningful change.
+- Commit with a short descriptive title and description explaining the motivation for the change.
+- Create a pull request from your fork to the original repository.
+
+----
+
+🙏 Thank you for your contributions!
