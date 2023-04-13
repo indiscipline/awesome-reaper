@@ -32,6 +32,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details.
     - [Python](#python)
     - [Rust](#rust)
 - [Learning](#learning)
+  - [Articles](#articles)
   - [Books](#books)
   - [Videos](#videos)
 - [Community](#community)
@@ -89,6 +90,10 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details.
 - [reaper-rs](https://github.com/helgoboss/reaper-rs) - Rust bindings for the Reaper C++ API.
 
 ## Learning
+
+### Articles
+
+- [Mix Rescue by Mike Senior](https://www.soundonsound.com/search/all?terms=Mix%20Rescue%20reaper) - A series of educational articles by Mike Senior featuring Reaper extensively.
 
 ### Books
 
