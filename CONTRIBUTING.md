@@ -28,6 +28,8 @@ Please ensure your contribution adheres to the following guidelines:
 * End all descriptions with a full stop/period.
 * Check your spelling and grammar.
 * Please, restrain from using qualitative descriptions such as: "best", "nice", "greatest", etc.
+* Try to get a permission from the authors to share the links to their resource.
+* Respect privacy: Don't disclose **any** personal data, unless explicitly public (example: a YouTube channel named with a person's legal name).
 
 ## Commit and Pull Request guidelines:
 
@@ -40,7 +42,7 @@ Please ensure your contribution adheres to the following guidelines:
 
 Some resources wish to not be linked anywhere or, occasionally, here specifically.
 
-If you wish to be excluded from this list, we ask the responsible party to file an issue titled `Exclusion request: Name of the Resource` and the `exlcusion` label, to log the request and prevent future readditions.
+If you wish to be excluded from this list, we ask the responsible party to file an issue titled `Exclusion request: Name of the Resource`, to log the request and prevent future re-additions. If you want to avoid mentioning sensitive information, contact the repo's maintainers so they could deal with the issue without disclosing your data. Please, make a precautionary step forward and provide the reasoning for the exclusion if possible.
 
 ## Git basics
 
