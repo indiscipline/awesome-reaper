@@ -74,7 +74,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 ### Documentation
 
 - [ReaScript API](https://www.reaper.fm/sdk/reascript/reascripthelp.html) - The official ReaScript API documentation.
-- [X-Reaym Reascript API Documentation](https://www.extremraym.com/cloud/reascript-doc/) - Searchable and easy-to-read list of Reaper ReaScript API functions with common extensions support.
+- [X-Raym Reascript API Documentation](https://www.extremraym.com/cloud/reascript-doc/) - Searchable and easy-to-read list of Reaper ReaScript API functions with common extensions support.
 
 ### Libraries
 
@@ -117,6 +117,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 #### Discord
 
 - [Cockos Reaper Users](https://discord.gg/gR2uqTdzej) - An older server by Audbol, originated form the Reaper forums.
+- [ReaScript](https://discord.gg/eB7embG) - Reascript, Extensions, JSFX, Themes, ReaImGui.
 - [The Unofficial Reaper Users Group](https://discord.gg/TqBwsaJdWp) - A server started by Myk Robinson from "Let's Talk About Reaper" YouTube channel.
 
 #### Matrix
