@@ -102,8 +102,9 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ### Videos
 
+- [Let's Talk About Reaper](https://www.youtube.com/channel/UCJjlFrOs2btJuErqrNu98Dg) - Myk Robinson's channel. Videos about Reaper, drums, guitar, home studio magic, and more.
 - [Reaper Mania](https://www.youtube.com/@REAPERMania) - The home of Kenny Gioia's Reaper Tutorials.
-- [The Reaper Blog](https://www.youtube.com/c/thereaperblog) - Jon Tidey's Youtube channel. Release news, tips, tricks and tutorials.
+- [The Reaper Blog](https://www.youtube.com/c/thereaperblog) - Jon Tidey's YouTube channel. Release news, tips, tricks and tutorials.
 
 ## Community
 
@@ -114,6 +115,9 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 ### Chats
 
 #### Discord
+
+- [Cockos Reaper Users](https://discord.gg/gR2uqTdzej) - An older server by Audbol, originated form the Reaper forums.
+- [The Unofficial Reaper Users Group](https://discord.gg/TqBwsaJdWp) - A server started by Myk Robinson from "Let's Talk About Reaper" YouTube channel.
 
 #### Matrix
 
