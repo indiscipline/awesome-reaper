@@ -14,12 +14,13 @@ The additions to the list should meet the following criteria for inclusion:
 * For software, scripts, effects or extensions, Free Software or Open Source are prioritized over freeware or source-available.
 * For books, articles and resources, Copyleft and Creative Commons licensed or Public Domain materials are prioritized over copyrighted ones.
 * When applicable, a project should be actively maintained and documented.
+* Didn't ask [to be excluded from the list](https://github.com/indiscipline/awesome-reaper/issues?q=is%3Aissue+label%3Aexclusion+) (details: [Voluntary exclusion](#voluntary-exclusion)).
 
 ## Contribution guidelines
 
 Please ensure your contribution adheres to the following guidelines:
 
-* Please, search issues and pull requests before making a new one, as yours may be a duplicate.
+* Please, search issues and pull requests before making a new one, as yours may be a duplicate or an [exlusion](https://github.com/indiscipline/awesome-reaper/issues?q=is%3Aissue+label%3Aexclusion+).
 * Follow the established structure of the list or suggest a change in an issue. New categories or categorisation improvements are welcome.
 * Points should follow the format: \[NAME\]\(LINK\) - DESCRIPTION. You can add complimentary link to the description.
 * Follow alphabetical order within each category.
@@ -34,6 +35,12 @@ Please ensure your contribution adheres to the following guidelines:
 * Please, squash your commits prior to opening the pull request.
 * Keep descriptions short and simple.
 * Include motivation for your additions in the pull request description.
+
+## Voluntary exclusion
+
+Some resources wish to not be linked anywhere or, occasionally, here specifically.
+
+If you wish to be excluded from this list, we ask the responsible party to file an issue titled `Exclusion request: Name of the Resource` and the `exlcusion` label, to log the request and prevent future readditions.
 
 ## Git basics
 
