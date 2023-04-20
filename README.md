@@ -66,6 +66,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ### JSFX / EEL2 resources
 
+- [CookDSP](http://ajaxsoundstudio.com/cookdspdoc/) - DSP library for JSFX by Olivier Bélanger. [Repo](https://github.com/belangeo/cookdsp).
+
 ### Lua resources
 
 ### Python resources
