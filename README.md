@@ -20,6 +20,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 - [Extensions](#extensions)
 - [JSFX](#jsfx)
 - [Scripts](#scripts)
+- [Video Editing](#video-editing)
 - [Scripting and JSFX development](#scripting-and-jsfx-development)
   - [General resources](#general-resources)
   - [JSFX / EEL2 resources](#jsfx-eel2-resources)
@@ -51,12 +52,16 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 - [geraintluff/jsfx](https://geraintluff.github.io/jsfx/) - Collection of JSFX effects by Geraint Luff (aka geraintluff). [Repo](https://github.com/geraintluff/jsfx), [Youtube playlist](https://www.youtube.com/watch?v=QLh6b88OvFs&list=PLflIiXZOocKqgKexrkTxxtl6igGUWnpXK), [forum thread](https://forums.cockos.com/showthread.php?t=186554).
 - [JoepVanlier/JSFX](https://github.com/JoepVanlier/JSFX) - A bundle of JSFX and scripts by Joep Vanlier (aka saike).
-- [TukanStudios/JSFX](https://stash.reaper.fm/v/43504/TUKANPLUGINS.png) - A bundle of JSFX by John Matthews (Tukan Studios). ([Repo](https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS)) ([Youtube](https://www.youtube.com/@johnmatthews8435))
+- [TukanStudios/JSFX](https://stash.reaper.fm/v/43504/TUKANPLUGINS.png) - A bundle of JSFX by John Matthews (Tukan Studios). [Repo](https://github.com/TukanStudios/TUKAN_STUDIOS_PLUGINS), [Youtube](https://www.youtube.com/@johnmatthews8435).
 
 ## Scripts
 
 - [ReaTeam ReaScripts](https://github.com/ReaTeam/ReaScripts) - Community-maintained collection of scripts for REAPER
-- [Stem Manager](https://forum.cockos.com/showthread.php?t=268512) ([Repo](https://github.com/odedd/ReaScripts/)) - Easily create stems by saving and recalling multiple sets of solo and mute states, run different sets of rules and actions for rendering, control render queue.
+- [Stem Manager](https://forum.cockos.com/showthread.php?t=268512) - Easily create stems by saving and recalling multiple sets of solo and mute states, run different sets of rules and actions for rendering, control render queue. [Repo](https://github.com/odedd/ReaScripts/).
+
+## Video Editing
+
+- [ogler](https://github.com/frabert/ogler) - VST plugin for writing video processing effects using GLSL shaders in Reaper. [Forum thread](https://forums.cockos.com/showthread.php?t=278451).
 
 ## Scripting and JSFX development
 
