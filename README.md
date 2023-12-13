@@ -82,6 +82,11 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ### Documentation
 
+- [C++ Documentation](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170) - The C++ documentation.
+- [JSFX API](https://www.reaper.fm/sdk/js/js.php) - The official JSFX API documentation.
+- [Lua Documentation](https://www.lua.org/docs.html) - The official Lua documentation.
+- [Python Documentation](https://docs.python.org/3/) - The official Python documentation.
+- [ReaImGui Documentation](https://api.codetabs.com/v1/proxy/?quest=https://github.com/cfillion/reaimgui/releases/latest/download/reaper_imgui_doc.html) - The official ReaImGui documentation.
 - [ReaScript API](https://www.reaper.fm/sdk/reascript/reascripthelp.html) - The official ReaScript API documentation.
 - [X-Raym Reascript API Documentation](https://www.extremraym.com/cloud/reascript-doc/) - Searchable and easy-to-read list of Reaper ReaScript API functions with common extensions support.
 
