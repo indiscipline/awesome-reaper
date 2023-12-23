@@ -89,6 +89,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 - [ReaImGui Documentation](https://api.codetabs.com/v1/proxy/?quest=https://github.com/cfillion/reaimgui/releases/latest/download/reaper_imgui_doc.html) - The official ReaImGui documentation.
 - [ReaScript API](https://www.reaper.fm/sdk/reascript/reascripthelp.html) - The official ReaScript API documentation.
 - [X-Raym Reascript API Documentation](https://www.extremraym.com/cloud/reascript-doc/) - Searchable and easy-to-read list of Reaper ReaScript API functions with common extensions support.
+- [Mespotine's ReaScript API resources](https://mespotin.uber.space/Ultraschall/Reaper_Api_Documentation.html) - REAPER's unofficial documentation (under-the-hood data uncovered)
 
 ### Libraries
 
