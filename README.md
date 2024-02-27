@@ -125,6 +125,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 - [Let's Talk About Reaper](https://www.youtube.com/channel/UCJjlFrOs2btJuErqrNu98Dg) - Myk Robinson's channel. Videos about Reaper, drums, guitar, home studio magic, and more.
 - [Reaper Mania](https://www.youtube.com/@REAPERMania) - The home of Kenny Gioia's Reaper Tutorials.
 - [The Reaper Blog](https://www.youtube.com/c/thereaperblog) - Jon Tidey's YouTube channel. Release news, tips, tricks and tutorials.
+- [IDDQDSound](https://www.youtube.com/@IDDQDSound) - Tutorials, tips, sound design, and scripting.
 - [Reapertips](https://www.youtube.com/@Reapertips) - Alejandro Hernandez's YouTube channel. Tips, tricks and tutorials.
 - [X-Raym's ReaScript Course](https://www.youtube.com/playlist?list=PL7M70tQL6s1IOYycGilaHLs5G4vOcyLF8) - Lua scripting for beginners.
 
