@@ -73,6 +73,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ### JSFX / EEL2 resources
 
+- [CodeBase](https://github.com/VisualCodeBase/CodeBase) - A multi in multi out modern compiler, which can convert JSFX to VST. [Forum thread](https://forum.cockos.com/showthread.php?t=245285).
 - [CookDSP](http://ajaxsoundstudio.com/cookdspdoc/) - DSP library for JSFX by Olivier Bélanger. [Repo](https://github.com/belangeo/cookdsp).
 - [JS2EEL](https://js2eel.org/) - A compiler that enables you to write REAPER JSFX in JavaScript by Daniel Schebesta. [Repo](https://github.com/steeelydan/js2eel). [Forum thread](https://forum.cockos.com/showthread.php?t=282257).
 
@@ -125,8 +126,6 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 - [Let's Talk About Reaper](https://www.youtube.com/channel/UCJjlFrOs2btJuErqrNu98Dg) - Myk Robinson's channel. Videos about Reaper, drums, guitar, home studio magic, and more.
 - [Reaper Mania](https://www.youtube.com/@REAPERMania) - The home of Kenny Gioia's Reaper Tutorials.
 - [The Reaper Blog](https://www.youtube.com/c/thereaperblog) - Jon Tidey's YouTube channel. Release news, tips, tricks and tutorials.
-- [Reapertips](https://www.youtube.com/@Reapertips) - Alejandro Hernandez's YouTube channel. Tips, tricks and tutorials.
-- [X-Raym's ReaScript Course](https://www.youtube.com/playlist?list=PL7M70tQL6s1IOYycGilaHLs5G4vOcyLF8) - Lua scripting for beginners.
 
 ## Community
 
