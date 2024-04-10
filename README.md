@@ -70,8 +70,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 ### General resources
 
 - [ReaImGui](https://github.com/cfillion/reaimgui) - ReaImGui: ReaScript binding for Dear ImGui.
-- [ReaImGui Knobs](https://github.com/AntoineBalaine/perken-reaper-scripts/tree/rack/imgui/knobs) - A port of [imgui-rs-knobs](https://github.com/DGriffin91/imgui-rs-knobs) to lua for ReaImGui by Antoine Balaine.
-- [ReaScripts-Templates](https://github.com/ReaTeam/ReaScripts-Templates) - Templates, models, boilerplates, examples and snippets for REAPER ReaScript, for easier scripts creations.
+- [ReaImGui Knobs](https://github.com/AntoineBalaine/perken-reaper-scripts/tree/rack/imgui/knobs) - A port of [imgui-rs-knobs](https://github.com/DGriffin91/imgui-rs-knobs) to lua for ReaImGui by Antoine Balaine. [Forum thread](https://forums.cockos.com/showthread.php?t=288811).
+- [ReaScripts-Templates](https://github.com/ReaTeam/ReaScripts-Templates) - Templates, models, boilerplates, examples and snippets for REAPER ReaScript, for easier scripts creations. [Forum thread](https://forum.cockos.com/showthread.php?t=172123).
 
 ### JSFX / EEL2 resources
 
