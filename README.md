@@ -45,11 +45,11 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 - [Web sites](#web-sites)
 
 ## Extensions
-
-- [OSARA](https://osara.reaperaccessibility.com/) - REAPER extension which aims to make REAPER accessible to screen reader users. [Repo](https://github.com/jcsteh/osara).
+https://github.com/reaper-oss/sws
+- [OSARA](https://osara.reaperaccessibility.com/) - REAPER extension which aims to make REAPER accessible to screen reader users. A collaborative and open source project. [Repo](https://github.com/jcsteh/osara).
 - [ReaLlm](https://github.com/ak5k/reallm) - Low latency monitoring plug-in extension (automatically bypass plugins adding latency). [Forum thread](https://forum.cockos.com/showthread.php?t=245445).
-- [ReaPack](https://reapack.com/) - Package manager for Reaper. Discover, install and keep up to date your Reaper resources.
-- [SWS / S&M extension](https://www.sws-extension.org/) - A collection of features that seamlessly integrate into Reaper. A collaborative and open source project.
+- [ReaPack](https://reapack.com/) - Package manager for Reaper. Discover, install and keep up to date your Reaper resources. [Repo](https://github.com/cfillion/reapack), [Forum thread](https://forum.cockos.com/showthread.php?t=177978).
+- [SWS / S&M extension](https://www.sws-extension.org/) - A collection of features that seamlessly integrate into Reaper. A collaborative and open source project. [Repo](https://github.com/reaper-oss/sws), [Forum thread](https://forums.cockos.com/showthread.php?t=29640).
 
 ## JSFX
 
