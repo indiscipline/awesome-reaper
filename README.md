@@ -98,6 +98,10 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ### Libraries
 
+#### JavaScript/TypeScript
+
+- [reaper-with-typescript-starter](https://github.com/GavinRay97/reaper-with-typescript-starter) - JavaScript/TypeScript bindings for the Reaper API. [Forum Thread](https://forum.cockos.com/showthread.php?t=247666).
+
 #### Nim
 
 - [ReaperExtensionNim](https://github.com/Alkamist/ReaperExtensionNim) - Nim bindings for the Reaper API.
