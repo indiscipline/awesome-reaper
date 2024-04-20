@@ -70,6 +70,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 ### General resources
 
 - [ReaImGui](https://github.com/cfillion/reaimgui) - ReaImGui: ReaScript binding for Dear ImGui.
+- [ReaScript VS Code Extension](https://marketplace.visualstudio.com/items?itemName=AntoineBalaine.reascript-docs) - An extension for Reaper's ReaScript API methods in VS Code. [Forum thread](https://forum.cockos.com/showthread.php?t=247290), [Repo](https://github.com/AntoineBalaine/vscode-reascript-extension).
 
 ### JSFX / EEL2 resources
 
