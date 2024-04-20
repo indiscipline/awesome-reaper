@@ -131,6 +131,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 ### Forums
 
 - [Cockos Incorporated forums (official)](https://forum.cockos.com/)
+- [Reddit forum (unofficial)](https://www.reddit.com/r/Reaper/)
 
 ### Chats
 
