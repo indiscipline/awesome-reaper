@@ -145,6 +145,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 # Web sites
 
+- [ReaBoot](https://reaboot.com/) - ReaBoot is a convenient all-in-one online installer for REAPER, ReaPack and arbitrary packages. [Repo](https://github.com/helgoboss/reaboot), [Forum](https://forums.cockos.com/showthread.php?p=2773571)
 - [ReaLinks](https://www.realinks.net/) - Showcase of tools and stuffs created by user community. Curated by X-Raym.
 
 ---
