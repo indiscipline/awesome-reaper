@@ -71,6 +71,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 - [ReaImGui](https://github.com/cfillion/reaimgui) - ReaImGui: ReaScript binding for Dear ImGui.
 - [ReaScript VS Code Extension](https://marketplace.visualstudio.com/items?itemName=AntoineBalaine.reascript-docs) - An extension for Reaper's ReaScript API methods in VS Code. [Forum thread](https://forum.cockos.com/showthread.php?t=247290), [Repo](https://github.com/AntoineBalaine/vscode-reascript-extension).
+- [Runing scripts from VSCode guide](https://forum.cockos.com/showthread.php?t=266182) - A guide explaining the way to run ReaScripts from VSCode by Sexan.
+- [VSCode Snippet Builder](https://stash.reaper.fm/v/44422/VSCode%20Snippet%20Builder%20v0.13.zip) - Windows standalone app which creates a VSCode snippet file (for Lua only) from REAPER's 'reascripthelp.html' file by Edgemeal.
 
 ### JSFX / EEL2 resources
 
