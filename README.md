@@ -30,6 +30,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
   - [Documentation](#documentation)
     - [General documentation and resources](#general-documentation-and-resources)
   - [Libraries](#libraries)
+    - [JavaScript/Typescript](#javascripttypescript)
     - [Nim](#nim)
     - [Python](#python)
     - [Rust](#rust)
@@ -100,7 +101,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 #### JavaScript/TypeScript
 
-- [reaper-with-typescript-starter](https://github.com/GavinRay97/reaper-with-typescript-starter) - JavaScript/TypeScript bindings for the Reaper API. [Forum Thread](https://forum.cockos.com/showthread.php?t=247666).
+- [reaper-with-typescript-starter](https://github.com/GavinRay97/reaper-with-typescript-starter) - JavaScript/TypeScript Reaper API bindings and a script template utilizing the [TypeScriptToLua](https://typescripttolua.github.io/) transpiler. [Forum Thread](https://forum.cockos.com/showthread.php?t=247666).
 
 #### Nim
 
