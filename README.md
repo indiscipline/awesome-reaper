@@ -128,7 +128,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 - [Reaper Mania](https://www.youtube.com/@REAPERMania) - The home of Kenny Gioia's Reaper Tutorials. [Facebook group](https://www.facebook.com/groups/193889884315689).
 - [Reapertips](https://www.youtube.com/@reapertips_plus) - Alejandro Hernandez's YouTube channel. Tips, tricks and tutorials.
 - [The Reaper Blog](https://www.youtube.com/c/thereaperblog) - Jon Tidey's YouTube channel. Release news, tips, tricks and tutorials. [Facebook group](https://www.facebook.com/groups/reaperblogcommunity/).
-- [X-Raym's ReaScript Course](https://www.youtube.com/playlist?list=PL7M70tQL6s1IOYycGilaHLs5G4vOcyLF8) - Lua scripting for beginners.
+- [X-Raym's Tutorials](https://www.youtube.com/@XRaym) - X-Raym's tutorials, demos and making-of. [ReaScript Course playlist](https://www.youtube.com/playlist?list=PL7M70tQL6s1IOYycGilaHLs5G4vOcyLF8).
 
 ## Community
 
