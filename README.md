@@ -30,7 +30,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
   - [Documentation](#documentation)
     - [General documentation and resources](#general-documentation-and-resources)
   - [Libraries](#libraries)
-    - [JavaScript/Typescript](#javascripttypescript)
+    - [JavaScript/TypeScript](#javascripttypescript)
     - [Nim](#nim)
     - [Python](#python)
     - [Rust](#rust)
