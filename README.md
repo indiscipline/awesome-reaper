@@ -18,12 +18,13 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 # Contents
 
 - [Extensions](#extensions)
+- [Software and tools](#software-and-tools)
 - [JSFX](#jsfx)
 - [Scripts](#scripts)
 - [Video Editing](#video-editing)
 - [Scripting and JSFX development](#scripting-and-jsfx-development)
   - [General resources](#general-resources)
-  - [JSFX / EEL2 resources](#jsfx-eel2-resources)
+  - [JSFX / EEL2 resources](#jsfx--eel2-resources)
   - [Lua resources](#lua-resources)
   - [Python resources](#python-resources)
 - [Developer resources](#developer-resources)
@@ -50,6 +51,10 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 - [ReaLlm](https://github.com/ak5k/reallm) - Low latency monitoring plug-in extension (automatically bypass plugins adding latency). [Forum thread](https://forum.cockos.com/showthread.php?t=245445).
 - [ReaPack](https://reapack.com/) - Package manager for Reaper. Discover, install and keep up to date your Reaper resources. [Repo](https://github.com/cfillion/reapack), [Forum thread](https://forum.cockos.com/showthread.php?t=177978).
 - [SWS / S&M extension](https://www.sws-extension.org/) - A collection of features that seamlessly integrate into Reaper. A collaborative and open source project. [Repo](https://github.com/reaper-oss/sws), [Forum thread](https://forums.cockos.com/showthread.php?t=29640).
+
+## Software and tools
+
+- [ReaBoot](https://reaboot.com/) - A convenient all-in-one online installer for REAPER, ReaPack and arbitrary packages by Helgoboss. [Repo](https://github.com/helgoboss/reaboot), [Forum thread](https://forums.cockos.com/showthread.php?p=2773571)
 
 ## JSFX
 
@@ -91,7 +96,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 - [JSFX API](https://www.reaper.fm/sdk/js/js.php) - The official JSFX API documentation.
 - [ReaImGui Documentation](https://api.codetabs.com/v1/proxy/?quest=https://github.com/cfillion/reaimgui/releases/latest/download/reaper_imgui_doc.html) - The official ReaImGui documentation.
 - [ReaScript API](https://www.reaper.fm/sdk/reascript/reascripthelp.html) - The official ReaScript API documentation.
-- [X-Raym Reascript API Documentation](https://www.extremraym.com/cloud/reascript-doc/) - Searchable and easy-to-read list of Reaper ReaScript API functions with common extensions support.
+- [X-Raym's Reaper Action List](https://www.extremraym.com/cloud/reaper-action-list/) - Interactive web page with the list of available Reaper actions, including internal and a selection of third-party ones. [Forum thread](https://forum.cockos.com/showthread.php?t=273727).
+- [X-Raym's Reascript API Documentation](https://www.extremraym.com/cloud/reascript-doc/) - Searchable and easy-to-read list of Reaper ReaScript API functions with common extensions support.
 
 #### General documentation and resources
 
