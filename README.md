@@ -73,7 +73,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ### JSFX / EEL2 resources
 
-- [CodeBase](https://github.com/VisualCodeBase/CodeBase) - A multi in multi out modern compiler, which can convert JSFX to VST. [Forum thread](https://forum.cockos.com/showthread.php?t=245285).
+- [CodeBase](https://github.com/VisualCodeBase/CodeBase) - A "multi in multi out modern compiler" and JSFX/EEL-to-VST Building system. [Forum thread](https://forum.cockos.com/showthread.php?t=245285).
 - [CookDSP](http://ajaxsoundstudio.com/cookdspdoc/) - DSP library for JSFX by Olivier Bélanger. [Repo](https://github.com/belangeo/cookdsp).
 - [JS2EEL](https://js2eel.org/) - A compiler that enables you to write REAPER JSFX in JavaScript by Daniel Schebesta. [Repo](https://github.com/steeelydan/js2eel). [Forum thread](https://forum.cockos.com/showthread.php?t=282257).
 
