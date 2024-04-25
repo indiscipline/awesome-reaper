@@ -114,9 +114,9 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 
 ### Articles
 
-- [AdmiralBumbleBee's tips](https://www.admiralbumblebee.com/tags/?year=false#Reaper) - A wide variety of tips, including script showcase, configuration guide, and ReaScript tutorials.
+- [AdmiralBumbleBee's tips](https://www.admiralbumblebee.com/tags/?year=false#Reaper) - A wide variety of tips: script showcase, configuration guide, accessibility, ReaScript tutorials.
 - [Mix Rescue by Mike Senior](https://www.soundonsound.com/search/all?terms=Mix%20Rescue%20reaper) - A series of educational articles by Mike Senior featuring Reaper extensively.
-- [SeventhSam's setup guide for orchestral composers](https://seventhsam.com/blogs/tutorials) - A setup guide of MIDI editor and Reaticulate for orchestral composers. [Forum thread](https://forum.cockos.com/showthread.php?t=286323).
+- [SeventhSam's tutorials](https://seventhsam.com/blogs/tutorials) - Guides on using Reaticulate for managing samples and setting up Reaper's MIDI editor, especially useful for orchestral composers. [Forum thread](https://forum.cockos.com/showthread.php?t=286323).
 
 ### Books
 
