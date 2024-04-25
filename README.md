@@ -28,6 +28,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
   - [Lua resources](#lua-resources)
   - [Python resources](#python-resources)
 - [Developer resources](#developer-resources)
+  - [Development tools](#development-tools)
   - [Documentation](#documentation)
     - [General documentation and resources](#general-documentation-and-resources)
   - [Libraries](#libraries)
@@ -90,6 +91,9 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 ### Python resources
 
 ## Developer resources
+
+### Development tools
+- [ReaScript VSCode Extension](https://marketplace.visualstudio.com/items?itemName=AntoineBalaine.reascript-docs) - Reaper's ReaScript API methods in Visual Studio Code. [Forum thread](https://forum.cockos.com/showthread.php?t=247290), [Repo](https://github.com/AntoineBalaine/vscode-reascript-extension).
 
 ### Documentation
 
