@@ -86,6 +86,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 - [CodeBase](https://github.com/VisualCodeBase/CodeBase) - A "multi in multi out modern compiler" and JSFX/EEL-to-VST Building system. [Forum thread](https://forum.cockos.com/showthread.php?t=245285).
 - [CookDSP](http://ajaxsoundstudio.com/cookdspdoc/) - DSP library for JSFX by Olivier Bélanger. [Repo](https://github.com/belangeo/cookdsp).
 - [JS2EEL](https://js2eel.org/) - A compiler that enables you to write REAPER JSFX in JavaScript by Daniel Schebesta. [Repo](https://github.com/steeelydan/js2eel). [Forum thread](https://forum.cockos.com/showthread.php?t=282257).
+- [JSFX gfx_xy GUI helper function](https://forums.cockos.com/showthread.php?t=285182) - A helper function which tracks the mouse position and outputs the result graphically in relation to a vectorized user interface by Zeno and mawi.
+- [jsfx-ui-lib](https://geraintluff.github.io/jsfx-ui-lib/) - A library/framework for creating UIs in REAPER’s JSFX language by Geraint Luff (aka geraintluff). [Forum thread](https://forums.cockos.com/showthread.php?t=181055).
 
 ### Lua resources
 
