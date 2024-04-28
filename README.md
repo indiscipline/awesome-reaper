@@ -172,6 +172,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) file for details on [Quality standards]
 # Web sites
 
 - [ReaLinks](https://www.realinks.net/) - Showcase of tools and stuffs created by user community. Curated by X-Raym.
+- [The Reaper Accessibility Wiki](https://reaperaccessibility.com) - A community-maintained wiki written in an accessible format for screen readers. Tips, scripting, and tutorials.
 
 ---
 <!-- footnotes -->
